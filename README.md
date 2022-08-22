@@ -1,2 +1,2 @@
 # Guia1
-Trabajo Juan Lopez - Brayan Casas - Samuel
+Trabajo Juan Lopez - Brayan Casas - Samuel diaz
